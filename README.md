@@ -1,9 +1,9 @@
-#                                                 CSE-587-Predicting-Movie-Genres-using-PySpark
+                                                     CSE-587-Predicting-Movie-Genres-using-PySpark
 
 CSE 487/587 Assignment 3: Predictive Analytics with Spark 
 The objective of this assignment is to get started with predictive Analytics with Apache Spark. The goals of the assignment are to use Spark Libraries to implement an end to end Predictive Analytics Pipeline and introduce you to the data science competition platform Kaggle.
 
-Movie Genre Prediction
+## Movie Genre Prediction
 
 ● The objective of the assignment is to implement a movie genre prediction model using Apache Spark ● The dataset provided to you contains information about movies. ● Kaggle competition has been launched: ● Create an account for that.
 ● You can download the train.csv, test.csv, sample.csv, and mapping.csv from the Kaggle website ● train.csv has movie summaries of around 31K movies along with their genres. You will use this to train your predictive analytics model
