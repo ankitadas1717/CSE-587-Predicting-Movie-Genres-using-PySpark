@@ -1,4 +1,4 @@
-# CSE-587-Predicting-Movie-Genres-using-PySpark
+#                                                 CSE-587-Predicting-Movie-Genres-using-PySpark
 
 CSE 487/587 Assignment 3: Predictive Analytics with Spark 
 The objective of this assignment is to get started with predictive Analytics with Apache Spark. The goals of the assignment are to use Spark Libraries to implement an end to end Predictive Analytics Pipeline and introduce you to the data science competition platform Kaggle.
@@ -27,8 +27,7 @@ PART 3 - Custom Feature Engineering:
 ● Kaggle maintains a leaderboard of all the submissions ● There are two leaderboards, public, and a private leaderboard ● You would only be able to see the public leaderboard.
 ● Generally, the ranking in the public leaderboard also reflects in the private leaderboard ● If the performance of your model ranks in the top 10 of the entire class in the private leaderboard, you will get the bonus 5 points
 
-Submission Instructions
-
+Submission Instructions:
 
 ● The code should follow a spark based programming model. If your code does not use PySpark to process the data and create models, you will not get any points.
 
